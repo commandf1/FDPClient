@@ -20,6 +20,10 @@ Discord: https://discord.gg/55x7TaHWXG
 ## Issues
 If you notice any bugs or missing features, you can let us know by opening an issue [here](https://github.com/UnlegitMC/FDPClient/issues).
 
+## For Chinese
+Danger, some developers of Anti China stuff will get involved in this project. XiGuaHanHan has forked and fled! XiGuaHanHan always believes in the Communist Party of China  
+危险，一些境外势力已加入本项目开发组，XiGuaHanHan已经Fork了一份备份，并且XiGuaHanHan永远跟党走，请党放心，强国有我！  
+
 ## License
 This project is subject to the [GNU General Public License v3.0](LICENSE). This does only apply for source code located directly in this clean repository. During the development and compilation process, additional source code may be used to which we have obtained no rights. Such code is not covered by the GPL license.
 
